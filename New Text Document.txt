@@ -1,0 +1,5 @@
+HOMEPAGE
+
+- links from homepage slider redirected to individual pages of series
+- links from what's new featured card image to popup
+- links from what's new section cards to popup as videos

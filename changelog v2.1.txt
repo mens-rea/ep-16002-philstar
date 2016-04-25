@@ -1,0 +1,10 @@
+HOMEPAGE
+
+- changed links from homepage slider directs to individual series page
+- changed links from what's new featured image to popup video. It's title and learn more going to individual series page
+- changed links from what's new card to popup video
+
+changed files:
+
+template-home.php
+style.css
